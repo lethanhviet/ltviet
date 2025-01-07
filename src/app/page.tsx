@@ -26,7 +26,7 @@ export default async function Home() {
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />
           <p>
-            {`Hi! 👋 I'm Viet. I currently live in Hanoi, Vietnam.`}
+            Hi! 👋 I'm Viet. I currently live in Hanoi, Vietnam.
           </p>
           <p>
             I am currently a Sales Manager at New Century Int'l (https://tantheky.com). Previously, was a Corporate Relationship
