@@ -29,11 +29,10 @@ export default async function Home() {
             {`Hi! 👋 I'm Viet. I currently live in Hanoi, Vietnam.`}
           </p>
           <p>
-            {`I am currently a Sales Manager at New Century Int'l. Previously, was a Corporate Relationship
-            Manager at HSBC Vietnam.`}
+            {`I am currently a Sales Manager at New Century Int'l.`}
           </p>
           <p>
-            This site is my personal space where I collect and share my interests, thoughts, and every other things.
+            This is my personal space where I collect and share my interests, thoughts, and every other things.
           </p>
           <Button asChild variant="link" className="inline px-0">
             <Link href="/writing">
