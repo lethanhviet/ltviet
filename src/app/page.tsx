@@ -26,11 +26,11 @@ export default async function Home() {
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />
           <p>
-            Hi! 👋 I'm Viet. I currently live in Hanoi, Vietnam.`}
+            {`Hi! 👋 I'm Viet. I currently live in Hanoi, Vietnam.`}
           </p>
           <p>
-            I am currently a Sales Manager at New Century Intl (https://tantheky.com). Previously, was a Corporate Relationship
-            Manager at HSBC Vietnam.
+            {`I am currently a Sales Manager at New Century Int'l. Previously, was a Corporate Relationship
+            Manager at HSBC Vietnam.`}
           </p>
           <p>
             This site is my personal space where I collect and share my interests, thoughts, and every other things.
