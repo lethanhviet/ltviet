@@ -31,8 +31,6 @@ export default async function Home() {
           <p>
             I am currently a Sales Manager at New Century Int'l (https://tantheky.com). Previously, was a Corporate Relationship
             Manager at HSBC Vietnam.
-          </p>
-          <p>
             This site is my personal space where I collect and share my interests, thoughts, and every other things.
           </p>
           <Button asChild variant="link" className="inline px-0">
