@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/',
     siteName: sharedTitle,
-    locale: 'zh_CN'
+    locale: 'vi_VN'
   },
   alternates: {
     canonical: '/'
