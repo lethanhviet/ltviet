@@ -12,8 +12,8 @@ const MenuContent = () => {
             <Image src="/assets/me.jpg" alt="avatar" fill className="rounded-full" />
           </div>
           <div className="flex flex-col">
-            <span className="font-semibold tracking-tight">Tristan Ruan</span>
-            <span className="text-gray-600">Software Engineer</span>
+            <span className="font-semibold tracking-tight">Viet T LE</span>
+            <span className="text-gray-600">Technology Enthusiast</span>
           </div>
         </Link>
 
