@@ -38,17 +38,12 @@ export const metadata: Metadata = {
     },
     description: sharedDescription,
     type: 'website',
-    url: '/',
+    url: 'https://ltviet.com',
     siteName: sharedTitle,
     locale: 'vi_VN'
   },
   alternates: {
     canonical: '/'
-  },
-  twitter: {
-    card: 'summary_large_image',
-    site: `@${PROFILES.twitter.url}`,
-    creator: `@${PROFILES.twitter.username}`
   },
   other: {
     pinterest: 'nopin'
