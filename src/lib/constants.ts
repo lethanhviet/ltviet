@@ -12,7 +12,6 @@ export const PROFILES = {
   instagram: {
     title: 'Instagram',
     url: 'https://www.instagram.com/ltvi3t',
-    icon: InstagramIcon
   },
   pinterest: {
     title: 'Pinterest',
