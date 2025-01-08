@@ -3,15 +3,15 @@ import {
   DogIcon,
   PenToolIcon,
   PocketKnifeIcon,
-  TwitterIcon,
-  GithubIcon,
-  LinkedinIcon
+  InstagramIcon,
+  PinterestIcon
 } from 'lucide-react'
 
 export const PROFILES = {
   instagram: {
     title: 'Instagram',
-    url: 'https://www.instagram.com/ltvi3t'
+    url: 'https://www.instagram.com/ltvi3t',
+    icon: <InstagramIcon size={16} />
   },
   pinterest: {
     title: 'Pinterest',
