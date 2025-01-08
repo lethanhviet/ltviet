@@ -21,7 +21,7 @@ const mukta = Mukta({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://monsterpi13.dev'),
+  metadataBase: new URL('https://ltviet.com'),
   robots: {
     index: true,
     follow: true
