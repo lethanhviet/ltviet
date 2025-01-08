@@ -21,7 +21,7 @@ export default async function Home() {
 
   return (
     <ScrollArea hasScrollTitle>
-      <FloatingHeader scrollTitle="Tristan Ruan" />
+      <FloatingHeader scrollTitle="Viet T LE" />
       <div className="content-wrapper">
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />
