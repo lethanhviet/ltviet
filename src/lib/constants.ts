@@ -11,7 +11,7 @@ import {
 export const PROFILES = {
   instagram: {
     title: 'Instagram',
-    url: 'https://www.instagram.com/ltvi3t',
+    url: 'https://www.instagram.com/ltvi3t'
   },
   pinterest: {
     title: 'Pinterest',
