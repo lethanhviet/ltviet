@@ -9,21 +9,14 @@ import {
 } from 'lucide-react'
 
 export const PROFILES = {
-  twitter: {
-    title: 'Twitter',
-    username: 'MonsterPi13',
-    url: 'https://twitter.com/intent/user?screen_name=MonsterPi13',
-    Icon: TwitterIcon
+  instagram: {
+    title: 'Instagram',
+    url: 'https://www.instagram.com/ltvi3t',
+    icon: <InstagramIcon size={16} />
   },
-  github: {
-    title: 'GitHub',
-    url: 'https://github.com/MonsterPi13',
-    Icon: GithubIcon
-  },
-  linkedin: {
-    title: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/%E9%B9%8F-%E9%98%AE-764b91215/',
-    Icon: LinkedinIcon
+  pinterest: {
+    title: 'Pinterest',
+    url: 'https://www.pinterest.com/lethanhviet'
   }
 }
 
